@@ -24,23 +24,23 @@ correlation analysis, outlier detection
 
 ---
 
-### 02 - AmericasBarometer Costa Rica 2023 — Citizen Profiles & Democratic Attitudes
-**Dataset:** AmericasBarometer Costa Rica 2023 (LAPOP, N=1,527)  
-**Tools:** Python, pandas, scikit-learn, matplotlib, seaborn  
-**Topics:** EDA, PCA, K-means clustering, logistic regression, political behavior
+### 02 - Barómetro de las Américas Costa Rica 2023 — Perfiles Ciudadanos y Actitudes Democráticas
+**Dataset:** Barómetro de las Américas Costa Rica 2023 (LAPOP, N=1,527)  
+**Herramientas:** Python, pandas, scikit-learn, matplotlib, seaborn  
+**Temas:** EDA, ACP, clustering K-means, regresión logística, comportamiento político
 
-**Key findings:**
-- Four citizen profiles identified via PCA + K-means: Escépticos autoritarios (14.4%),
+**Hallazgos principales:**
+- Se identificaron cuatro perfiles ciudadanos mediante ACP + K-means: Escépticos autoritarios (14.4%),
   Demócratas liberales (28.3%), Demócratas iliberales (36.9%), Liberales semidemócratas (20.4%).
-- Logistic regression models achieved Pseudo R² = 0.142, identifying key predictors
-  of support for democratic norms.
-- Results replicate and extend official LAPOP 2023 findings for Costa Rica.
+- Los modelos de regresión logística alcanzaron un Pseudo R² = 0.142, identificando predictores
+  clave del apoyo a las normas democráticas.
+- Los resultados replican y amplían los hallazgos oficiales de LAPOP 2023 para Costa Rica.
 
-| Notebook | Description |
+| Cuaderno | Descripción |
 |----------|-------------|
-| 📓 [01_EDA.ipynb](./AmericasBarometer%202023/01_EDA.ipynb) | Exploratory analysis replicating official LAPOP 2023 findings |
-| 📓 [02_ACP_clustering.ipynb](./AmericasBarometer%202023/02_ACP_clustering.ipynb) | PCA + K-means: four citizen profiles |
-| 📓 [03_regresion_logistica.ipynb](./AmericasBarometer%202023/03_regresion_logistica.ipynb) | Logistic regression, two models |
+| 📓 [01_EDA.ipynb](./AmericasBarometer%202023/01_EDA.ipynb) | Análisis exploratorio replicando hallazgos oficiales LAPOP 2023 |
+| 📓 [02_ACP_clustering.ipynb](./AmericasBarometer%202023/02_ACP_clustering.ipynb) | ACP + K-means: cuatro perfiles ciudadanos |
+| 📓 [03_regresion_logistica.ipynb](./AmericasBarometer%202023/03_regresion_logistica.ipynb) | Regresión logística, dos modelos |
 
 ---
 
