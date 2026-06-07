@@ -38,9 +38,9 @@ correlation analysis, outlier detection
 
 | Cuaderno | Descripción |
 |----------|-------------|
-| 📓 [01_EDA.ipynb](./AmericasBarometer%202023/01_EDA.ipynb) | Análisis exploratorio replicando hallazgos oficiales LAPOP 2023 |
-| 📓 [02_ACP_clustering.ipynb](./AmericasBarometer%202023/02_ACP_clustering.ipynb) | ACP + K-means: cuatro perfiles ciudadanos |
-| 📓 [03_regresion_logistica.ipynb](./AmericasBarometer%202023/03_regresion_logistica.ipynb) | Regresión logística, dos modelos |
+| 📓 [01_EDA.ipynb](./AmericasBarometer 2023/01_EDA.ipynb) | Análisis exploratorio replicando hallazgos oficiales LAPOP 2023 |
+| 📓 [02_ACP_clustering.ipynb](./AmericasBarometer 2023/02_ACP_clustering.ipynb) | ACP + K-means: cuatro perfiles ciudadanos |
+| 📓 [03_regresion_logistica.ipynb](./AmericasBarometer 2023/03_regresion_logistica.ipynb) | Regresión logística, dos modelos |
 
 ---
 
